@@ -4,10 +4,9 @@ mongoose
     'mongodb+srv://1517002:rashed@clinicx.zyucjz0.mongodb.net/?retryWrites=true&w=majority',
     {
       useNewUrlParser: true,
-      useCreateIndex: true,
-      useFindAndModify: false,
       useUnifiedTopology: true,
     }
   )
-  .then(() => console.log('Sucessful Connection'))
+  .then(() => console.log('Sucessful Connnnnnnnnection'))
   .catch((err) => console.log(err));
+
