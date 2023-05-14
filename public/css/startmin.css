@@ -17,7 +17,7 @@ body {
     padding: 30px 15px 0 15px;
     min-height: 568px;
     min-height: 100%;
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 @media(min-width:768px) {
@@ -478,7 +478,7 @@ table.dataTable thead .sorting:after {
 .tabbed-panel.panel-default .nav-tabs > li.dropdown .dropdown-menu > .active > a:hover,
 .tabbed-panel.panel-default .nav-tabs > li.dropdown .dropdown-menu > .active > a:focus {
     color: #fff;
-    background-color: #555;
+    background-color: #3883c9;
 }
 
 .tabbed-panel.panel-primary .nav-tabs > li > a,
