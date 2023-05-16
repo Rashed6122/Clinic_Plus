@@ -1,3 +1,10 @@
+# Description :
+This project introducing an advanced digital solution that enhances the management of hospital rooms and optimizes patient isolation protocols. Our cutting-edge web application acts as a centralized control center, facilitating seamless patient distribution across various hospital areas.
+
+This intuitive tool empowers nurses by providing real-time updates on patients' conditions and diseases, enabling them to efficiently oversee and strategically allocate rooms. By intelligently managing room assignments, healthcare professionals can ensure seamless patient care and a harmonious workflow.
+
+
+
 # Installation:
 1.	Download the repository
 ```
